@@ -1,11 +1,15 @@
-<h1 align="center">Hello , It's Kenny</h1>
+<h1 align="center">Hello , It's Kenny <img src="https://github.com/kjarret/Projects/blob/All-Projects/rocket.gif" alt="Rocket" style="width: 30px; height: 30px; top: -50px;"></h1>
+
 <h3 align="center">Apprenti developer 👨‍💻</h3>
+
+
+
 
 <!-- Intro -->
 
 ## 🌐 Socials:
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfoliojarretkenny.web.app/)
 <br>
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kenny-jarret-014891218/)
 
@@ -35,9 +39,6 @@
 <p align="left">
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-    </a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
     </a>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
