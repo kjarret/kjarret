@@ -1,4 +1,4 @@
-<h1 align="center">Hello , It's Kenny <img src="https://github.com/kjarret/Projects/blob/All-Projects/rocket.gif" alt="Rocket" style="width: 30px; height: 30px; top: -50px;"></h1>
+<h1 align="center">Hello , It's Kenny  <img src="https://github.com/kjarret/helloWorld/blob/main/rocket.gif" alt="Rocket" style="width: 30px; height: 30px; top: -50px;"></h1>
 
 <h3 align="center">Apprenti developer 👨‍💻</h3>
 
